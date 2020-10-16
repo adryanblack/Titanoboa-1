@@ -6,7 +6,7 @@
     <title>Meu Ovo</title>
 </head>
 <body>
-    <h1>Titanoboa moideno :3</h1>
+    <h1>Titanoboa moideno cu :3</h1>
     <img src="img/titanoboa.jpg" alt="">
 </body>
 </html>
